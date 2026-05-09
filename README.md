@@ -1,3 +1,6 @@
+<img width="1324" height="765" alt="Screenshot 2026-05-09 121707" src="https://github.com/user-attachments/assets/58c0f255-9ee8-4e88-800e-f422ce8b2e20" />
+<img width="1326" height="766" alt="Screenshot 2026-05-09 121622" src="https://github.com/user-attachments/assets/c9b51ded-321c-44a7-b8fa-61c08f4f95a8" />
+<img width="1324" height="769" alt="Screenshot 2026-05-09 121534" src="https://github.com/user-attachments/assets/46a5b121-09b4-441f-8695-42a0f44c940f" />
 # E-Commerce Performance Dashboard (Power BI + SQL)
 
 ## 📊 Project Overview
